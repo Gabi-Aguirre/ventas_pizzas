@@ -9,6 +9,7 @@ Este proyecto analiza los ingresos generados por diferentes tipos de pizzas util
 ## Tecnologías
 - MySQL
 - SQL para consultas analíticas
+- Power BI para visualizar aquellas consultas realizadas.
 
 ## Cómo ejecutar
 1. Clona el repositorio.
